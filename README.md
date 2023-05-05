@@ -9,3 +9,6 @@ Exciting [This can make for a fun user experience and practicing CSS]
   - You can customize the emoticons. Press WINDOWS KEY + DOT on your keyboard. This will open up the emoji-keyboard (if present) on your PC.
   
 This is a beginner level assignment to practice Javascript/CSS. 
+
+You can find the image used here
+  - https://pixabay.com/images/id-5879037/
