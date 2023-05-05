@@ -1,0 +1,56 @@
+* {
+    box-sizing : border-box;
+    margin : 0;
+}
+
+body{
+    background-image: url('happy.jpg');
+    background-size: cover;
+    opacity: 10;
+    font-family: 'Quantico', sans-serif;
+}
+
+.sec-title {
+    text-shadow: 2px 2px 0.5px rgba(255, 0, 128, 0.911);
+    color: white;
+}
+
+.pwd-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap : 10px;
+    width: 50vw;
+    margin: 0 auto;
+    margin-top : 100px;
+}
+
+.pwd-title{
+    background-color: #2981d4;
+    padding: 14px 28px;
+    border-radius: 8px;
+    border: 1px rgb(48, 206, 166) solid;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 1.2;
+}
+
+.pwd-box {
+    width: 300px;
+    height: 38px;
+    font-size: 22px;
+    border-radius: 8px;
+    background-color: transparent;
+    border: 2px rgb(218, 21, 119) solid;
+    color: white;
+    font-family: 'Quantico', sans-serif;
+}
+
+.reveal-pwd {
+    font-size: 32px;
+    margin: 10px auto;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
